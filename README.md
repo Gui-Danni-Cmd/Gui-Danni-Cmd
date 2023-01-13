@@ -1,9 +1,11 @@
-- 👋 Olá, Sou @Gui-Danni-Cmd
-- 👀 Amo programar ...
-- 🍕 Amo pizza  ...
+## Olá pessoas 👋
 
+<! --
+**Gui-Danni-Cmd** é um repositório ✨ SEM SENTIDO ✨ Pra dazer coisas `Com menos sentido ainda` 
 
-<!---
-Gui-Danni-Cmd/Gui-Danni-Cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🚀 Atualmente estou trabalhando em projetos duvidosos
+- 🧐 Atualmente estou aprendendo rust
+- 😏 Estou procurando ajuda com bots no discord
+- 📫 Como entrar em contato comigo: cout << "Co3lho";#0154 (vulgo discord)
+- ⚡ Curiosidade: Sou amante de hardware velho (vulgo retro)
+-->
