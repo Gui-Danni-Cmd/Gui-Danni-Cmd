@@ -7,6 +7,7 @@
 - 😏 Estou procurando ajuda com bots no discord
 - 📫 Como entrar em contato comigo: cout << "Co3lho";#0154 (vulgo discord)
 - ⚡ Curiosidade: Sou amante de hardware velho (vulgo retro)
+
 */
 
 
