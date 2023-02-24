@@ -1,4 +1,4 @@
-<h1 align="center">Olá pessoas 👋 Guilherme</h1>
+<h1 align="center">Olá pessoas 👋</h1>
 <h3 align="center"><! -- **Gui-Danni-Cmd é um repositório ✨ SEM SENTIDO ✨ Pra dazer coisas  `Com menos sentido ainda` --></h3>
 
 /*
