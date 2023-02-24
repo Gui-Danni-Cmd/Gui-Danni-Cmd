@@ -1,16 +1,13 @@
 <h1 align="center">Olá pessoas 👋 Guilherme</h1>
 <h3 align="center"><! -- **Gui-Danni-Cmd é um repositório ✨ SEM SENTIDO ✨ Pra dazer coisas  `Com menos sentido ainda` --></h3>
 
-<! --
-
-
+/*
 - 🚀 Atualmente estou trabalhando em projetos duvidosos
 - 🧐 Atualmente estou aprendendo rust
 - 😏 Estou procurando ajuda com bots no discord
 - 📫 Como entrar em contato comigo: cout << "Co3lho";#0154 (vulgo discord)
 - ⚡ Curiosidade: Sou amante de hardware velho (vulgo retro)
-
--->
+*/
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="150" height="150" align="right" /></a>
