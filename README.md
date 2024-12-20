@@ -1,77 +1,76 @@
-
 # Guilherme Dannilo Maciel Coelho
 
-### Desenvolvedor de software | C/C++ | JavaScript | C# | Python
+### Software Developer | C/C++ | JavaScript | C# | Python
 
 ----------
 
-Olá! Sou Guilherme Dannilo Maciel Coelho, um apaixonado e dedicado desenvolvedor de software com expertise em múltiplas linguagens de programação e um forte foco em construir soluções eficientes e escaláveis.
+Hello! I'm Guilherme Dannilo Maciel Coelho, a passionate and dedicated software developer with expertise in multiple programming languages and a strong focus on building efficient and scalable solutions.
 
 ----------
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
--   🔭 Atualmente desenvolvendo aplicativos de alto desempenho e trabalhando em projetos pessoais. -   🌱 Sempre aprendendo novas tecnologias para melhorar meu conjunto de habilidades. -   🚀 Apaixonado por aplicativos de baixo nível e sistemas de alta eficiência. -   🎨 Criatividade e resolução de problemas estão no centro de tudo o que faço.
-
-
-
-
-----------
-
-## 🛠️ Habilidades técnicas
-
-### Linguagens de programação:
-
-- ** C/C++ ** : Especialização em programação de sistemas, desenvolvimento de backend e aplicativos de desempenho crítico. - ** JavaScript ** : Desenvolvimento de frontend e backend com frameworks modernos. - ** C# ** : Desenvolvimento de backend e design de aplicativos. - ** Python ** : Automação, script e análise de dados.  
-  
-  
-  
-
-### Ferramentas e Frameworks:
-
--   LLVM, SDL2, OpenGL e Vulkan. - Nodejs, React e Express para desenvolvimento em JavaScript. - .NET Core para criar aplicativos C # escaláveis. - Pandas e NumPy para manipulação de dados baseada em Python.
-
-
-
-
-### Outros:
-
--   Sistemas operacionais: Arch Linux, Ubuntu, Kali Linux -   Controle de versão: Git, GitHub. -   Ferramentas de construção: CMake, Make. -   IDEs: Visual Studio, VS Code, Nvim.
-
-
-
+-   🔭 Currently developing high-performance applications and working on personal projects.  
+-   🌱 Continuously learning new technologies to enhance my skill set.  
+-   🚀 Passionate about low-level applications and high-efficiency systems.  
+-   🎨 Creativity and problem-solving are at the core of everything I do.  
 
 ----------
 
-## 🌟 Projetos em destaque
+## 🛠️ Technical Skills
 
-### 🖥️ Emulador RISC-V
+### Programming Languages:
 
--   Desenvolveu um emulador RISC-V otimizado usando ** C++ ** com SDL2 para renderização gráfica. -   Implementou recursos de emulação de CPU, gerenciamento de memória.
+- **C/C++**: Specialized in systems programming, backend development, and performance-critical applications.  
+- **JavaScript**: Frontend and backend development using modern frameworks.  
+- **C#**: Backend development and application design.  
+- **Python**: Automation, scripting, and data analysis.  
 
+### Tools and Frameworks:
 
-### 🎮 Emulador NES
+-   LLVM, SDL2, OpenGL, and Vulkan.  
+-   Node.js, React, and Express for JavaScript development.  
+-   .NET Core for building scalable C# applications.  
+-   Pandas and NumPy for Python-based data manipulation.  
 
--   Construiu um emulador de NES altamente preciso em ** C++ ** , incluindo emulação de CPU, PPU e APU. -   Suporte integrado para renderização, reprodução de áudio e entrada de controle.
+### Others:
 
-
-### 🔧 Compilador de linguagem Isa
-
--   Criei um compilador personalizado para Isa, apresentando análise AST, geração LLVM IR e passes de otimização. -   Projetei e integrei um sistema de biblioteca personalizado para a linguagem.
-
-
-### 📜 Destaque de sintaxe e preenchimento automático
-
--   Construiu uma extensão do VS Code para a linguagem Isa com ** JavaScript ** , permitindo destaque de sintaxe e preenchimento automático inteligente.
-
-----------
-
-## 📫 Entre em contato
-
--   📧 Email: [gumacielcoelho@gmail.com](mailto:gumacielcoelho@gmail.com)-   🐦 X: [@guilhermedev](https://x.com/Gui_opsx)-   💼 LinkedIn: [linkedin.com/in/guilhermedannilo](https://linkedin.com/in/guilhermedannilo)
-
-
+-   Operating Systems: Arch Linux, Ubuntu, Kali Linux  
+-   Version Control: Git, GitHub  
+-   Build Tools: CMake, Make  
+-   IDEs: Visual Studio, VS Code, Nvim  
 
 ----------
 
-Obrigado por visitar meu perfil! Sinta-se à vontade para se conectar comigo ou conferir meus repositórios. Vamos construir algo incrível juntos!
+## 🌟 Featured Projects
+
+### 🖥️ RISC-V Emulator
+
+-   Developed an optimized RISC-V emulator using **C++** with SDL2 for graphical rendering.  
+-   Implemented CPU emulation, memory management features.  
+
+### 🎮 NES Emulator
+
+-   Built a highly accurate NES emulator in **C++**, including CPU, PPU, and APU emulation.  
+-   Integrated support for rendering, audio playback, and controller input.  
+
+### 🔧 Isa Language Compiler
+
+-   Created a custom compiler for the Isa language featuring AST analysis, LLVM IR generation, and optimization passes.  
+-   Designed and integrated a custom library system for the language.  
+
+### 📜 Syntax Highlighting and Autocomplete
+
+-   Built a VS Code extension for the Isa language using **JavaScript**, enabling syntax highlighting and intelligent autocomplete.  
+
+----------
+
+## 📫 Get in Touch
+
+-   📧 Email: [gumacielcoelho@gmail.com](mailto:gumacielcoelho@gmail.com)  
+-   🐦 X: [@guilhermedev](https://x.com/Gui_opsx)  
+-   💼 LinkedIn: [linkedin.com/in/guilhermedannilo](https://linkedin.com/in/guilhermedannilo)  
+
+----------
+
+Thank you for visiting my profile! Feel free to connect with me or check out my repositories. Let’s build something amazing together!
