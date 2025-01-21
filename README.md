@@ -69,7 +69,8 @@ Hello! I'm Guilherme Dannilo Maciel Coelho, a passionate and dedicated software 
 
 -   📧 Email: [gumacielcoelho@gmail.com](mailto:gumacielcoelho@gmail.com)  
 -   🐦 X: [@guilhermedev](https://x.com/Gui_opsx)  
--   💼 LinkedIn: [linkedin.com/in/guilhermedannilo](https://linkedin.com/in/guilherme-danilo-maciel-coelho-aa8435341)  
+-   💼 LinkedIn: [linkedin.com/in/guilhermedannilo](https://linkedin.com/in/guilherme-danilo-maciel-coelho-aa8435341)
+-   📷 Instagram: [@gui_0xc0ffe](https://www.instagram.com/gui_0xc0ffe/)
 
 ----------
 
